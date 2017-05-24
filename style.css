@@ -1,0 +1,56 @@
+.photo{
+	float:left;
+}
+
+.photo2 img {
+	float:right;
+	width:300px;
+	margin: 25px;
+}
+
+.photo img {
+	width:300px;
+	margin: 25px;
+}
+
+.navLinks  {
+	width:33%; 
+	float:left;
+	text-align:center;
+}
+
+.bannerImage{
+	width:100%
+}
+
+.menu {
+	width:100%;height:20px;border:2px solid; margin-bottom:20px;
+}
+
+.grouppics {
+	clear:both;
+}
+
+.border {
+	border: 2px solid black;
+}
+
+.photo20 {
+width:300px
+margin:25px;
+}
+
+.photo20right{
+	width: 20%;
+	float:right;
+	margin:25px;
+}
+
+
+.text {
+	width:60%;
+}
+
+.container{
+	overflow:auto;
+}
